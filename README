@@ -1,0 +1,9 @@
+-----------------------
+Porject: mobile streaming, 2012
+
+
+-----------------------
+Goal:
+  We collected some 3G traces and found some WiMax and CDMA traces online. The program is to find the change points using CUSUM for these traces and try to predict the average/stdev bandwidth of the segments using as few samples as possible.
+
+
